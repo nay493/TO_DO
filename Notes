@@ -1,0 +1,12 @@
+Rlogin vs SSH:
+
+Both used to remotely access a computer and run programs and do other things as
+if you are actually sitting right in front of it.
+
+Rlogin is not secure
+
+    SSH traffic is encrypted while Rlogin traffic is not
+    SSH authenticates the user while Rlogin does not
+    SSH can be used for automation while Rlogin cannot ?
+    Rlogin is no longer being used in favor of SSH
+
