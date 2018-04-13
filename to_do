@@ -2,4 +2,5 @@
 2. Desktop Linux application in python
 3. writing command line utilities in python
   https://www.ibm.com/developerworks/aix/library/au-pythocli/
+  CLU(command line utility) portable on both Linux & windows
 4. RPC (Remote proceedural calls)
