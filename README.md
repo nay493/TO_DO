@@ -1,5 +1,11 @@
 # TO_DO
 
+
+--> search a word automatically added with a +ve word in specified seraching engine(ex: google, youtube...etc)
+
+
+
+
 #include<stdio.h>
 
 int main()
