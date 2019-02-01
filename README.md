@@ -8,6 +8,7 @@ chrome webdriver
 http://www.lesmartomation.com/send-whatsapp-messages-with-automated-script-using-selenium/
 
 --> Write a web crawler and convert it to text and message automatically using whatsapp
+--> https://www.youtube.com/watch?v=nRW90GASSXE&list=PL6gx4Cwl9DGA8Vys-f48mAH9OKSUyav0q
 
 
 #include<stdio.h>
