@@ -5,6 +5,7 @@
 
 --> Send automatic whatsapp messages using https://github.com/rajujha373/Whatsapp-autosend-script
 chrome webdriver
+http://www.lesmartomation.com/send-whatsapp-messages-with-automated-script-using-selenium/
 
 
 #include<stdio.h>
