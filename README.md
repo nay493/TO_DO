@@ -3,7 +3,8 @@
 
 --> search a word automatically added with a +ve word in specified seraching engine(ex: google, youtube...etc)
 
-
+--> Send automatic whatsapp messages using https://github.com/rajujha373/Whatsapp-autosend-script
+chrome webdriver
 
 
 #include<stdio.h>
